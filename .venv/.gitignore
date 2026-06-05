@@ -1,0 +1,4 @@
+echo ".env
+spam.log
+__pycache__/
+*.pyc" > .gitignore
